@@ -1,4 +1,4 @@
-Getting and Cleaning Data - Peer Assesment
+Getting and Cleaning Data - Peer Assessment
 ========================================
 This file describes how run_analysis.R script works.
 
